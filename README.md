@@ -18,46 +18,44 @@ I'm currently a Senior Talent Advisor with 6+ years of experience partnering wit
 <tr>
 <td valign="top" width="50%">
 
-<h3>🔭 I'm currently working on</h3>
-<ul>
-<li>🤖 Building AI-powered applications using Retrieval-Augmented Generation (RAG)</li>
-<li>⚡ Developing software that improves productivity and streamlines everyday workflows</li>
-<li>🧠 Exploring practical applications of Large Language Models (LLMs) and AI automation</li>
-<li>🚀 Expanding my portfolio with real-world software projects</li>
-</ul>
+<h3>Currently working on</h3>
+<sub>
+
+Building AI-powered applications using Retrieval-Augmented Generation, developing tools that streamline everyday workflows, and expanding a portfolio of real-world software projects — with a growing focus on practical, production-ready applications of large language models.
+
+</sub>
 
 </td>
 <td valign="top" width="50%">
 
-<h3>🌱 I'm currently learning</h3>
-<ul>
-<li>🎓 As part of my Bachelor's in Computing Science, I'm strengthening my foundation in Data Structures &amp; Algorithms, Computer Networks, Cybersecurity, Software Engineering, and other core computer science concepts.</li>
-<li>📚 Outside of my degree, I enjoy exploring Artificial Intelligence, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Automation, and building practical applications that solve real-world problems.</li>
-</ul>
+<h3>Currently learning</h3>
+<sub>
+
+As part of my Computing Science degree, I'm building a solid foundation in data structures & algorithms, computer networks, cybersecurity, and software engineering. Outside the classroom, I'm exploring AI, LLMs, RAG, and automation through hands-on projects.
+
+</sub>
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="50%">
 
-<h3>👯 I'm looking to collaborate on</h3>
-<ul>
-<li>🤖 Artificial Intelligence &amp; Machine Learning projects</li>
-<li>🛠️ Productivity tools and workflow automation</li>
-<li>🌍 Open-source software</li>
-<li>💻 Full-stack applications</li>
-<li>🚀 Hackathons and innovative side projects</li>
-</ul>
+<h3>Open to collaborating on</h3>
+<sub>
+
+AI and machine learning projects, productivity tools and workflow automation, open-source software, full-stack applications, and the occasional hackathon or side project that pushes me to build something new.
+
+</sub>
 
 </td>
 <td valign="top" width="50%">
 
-<h3>🤝 I'm looking for help with</h3>
-<ul>
-<li>Open-source contributions</li>
-<li>System Design</li>
-<li>Building scalable AI applications</li>
-</ul>
+<h3>Looking for guidance on</h3>
+<sub>
+
+Open-source contribution workflows, system design fundamentals, and best practices for building scalable AI applications.
+
+</sub>
 
 </td>
 </tr>
@@ -65,7 +63,7 @@ I'm currently a Senior Talent Advisor with 6+ years of experience partnering wit
 
 <br>
 
-<h3>💬 Ask me about</h3>
+<h3>Ask me about</h3>
 <ul>
 <li>Talent Acquisition &amp; Recruitment</li>
 <li>Human Resources (HR)</li>
@@ -78,7 +76,7 @@ I'm currently a Senior Talent Advisor with 6+ years of experience partnering wit
 <br>
 
 <details open>
-<summary><h3>⚡ Fun fact</h3></summary>
+<summary><h3>Fun fact</h3></summary>
 <p>
 My curiosity for technology started long before I wrote my first line of code—I spent countless hours modding GTA Vice City, rebuilding computers, and figuring out how software worked simply because I wanted to understand how things worked behind the scenes.
 </p>
@@ -86,7 +84,7 @@ My curiosity for technology started long before I wrote my first line of code—
 
 <br>
 
-<h2>🛠️ Languages &amp; Technologies</h2>
+<h2>Languages &amp; Technologies</h2>
 
 <h3>Languages</h3>
 <p>
@@ -108,19 +106,19 @@ My curiosity for technology started long before I wrote my first line of code—
 </p>
 
 <h3>Top Languages</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhdeep-Brar&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,swift&theme=dark"/>
 
 <br>
 <br>
 
-<h2>💡 My Philosophy</h2>
+<h2>My Philosophy</h2>
 <blockquote>
 <i>I believe great software should solve real problems, not just demonstrate technical skills. My goal is to build products that make work simpler, faster, and more enjoyable for people.</i>
 </blockquote>
 
 <br>
 
-<h2>🤝 Let's Connect</h2>
+<h2>Let's Connect</h2>
 <p>
 I'm always happy to connect with developers, builders, entrepreneurs, recruiters, and anyone passionate about technology, AI, software engineering, and creating products that make a meaningful impact.
 </p>
