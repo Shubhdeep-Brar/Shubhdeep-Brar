@@ -12,10 +12,6 @@
 I'm currently a Senior Talent Advisor with 6+ years of experience partnering with small, medium, and global organizations to attract exceptional talent. Alongside my professional career, I'm pursuing a Bachelor's in Computing Science to complement my business and people experience with a strong foundation in software engineering and emerging technologies.
 </p>
 
-<p>
-Technology has fascinated me for as long as I can remember.
-</p>
-
 <br>
 
 <table width="100%">
