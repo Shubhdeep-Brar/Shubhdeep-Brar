@@ -2,22 +2,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=160&section=header&text=Hi%20there,%20I'm%20Shubhdeep%20Brar%20%F0%9F%91%8B&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%"/>
 
-<p>📍 <b>Based in British Columbia, Canada</b> 🇨🇦</p>
+<p>📍 Based in British Columbia, Canada 🇨🇦</p>
 
 </div>
 
 <br>
 
 <p>
-I'm currently a <b>Senior Talent Advisor</b> with 6+ years of experience partnering with small, medium, and global organizations to attract exceptional talent. Alongside my professional career, I'm pursuing a <b>Bachelor's in Computing Science</b> to complement my business and people experience with a strong foundation in software engineering and emerging technologies.
+I'm currently a Senior Talent Advisor with 6+ years of experience partnering with small, medium, and global organizations to attract exceptional talent. Alongside my professional career, I'm pursuing a Bachelor's in Computing Science to complement my business and people experience with a strong foundation in software engineering and emerging technologies.
 </p>
 
 <p>
-Technology has fascinated me for as long as I can remember. Growing up, I spent hours modding GTA Vice City with custom patches, taking apart computers to understand how they worked, and exploring new software simply out of curiosity. Today, that same curiosity drives me to build software and AI-powered solutions that simplify workflows, improve productivity, and solve real-world problems.
-</p>
-
-<p>
-I have experience working with <b>Java, Python, C, C++, and iOS Development (Swift/UIKit)</b>, and I enjoy continuously learning through hands-on projects, open-source exploration, and emerging technologies.
+Technology has fascinated me for as long as I can remember.
 </p>
 
 <br>
@@ -28,9 +24,9 @@ I have experience working with <b>Java, Python, C, C++, and iOS Development (Swi
 
 <h3>🔭 I'm currently working on</h3>
 <ul>
-<li>🤖 Building AI-powered applications using <b>Retrieval-Augmented Generation (RAG)</b></li>
+<li>🤖 Building AI-powered applications using Retrieval-Augmented Generation (RAG)</li>
 <li>⚡ Developing software that improves productivity and streamlines everyday workflows</li>
-<li>🧠 Exploring practical applications of <b>Large Language Models (LLMs)</b> and AI automation</li>
+<li>🧠 Exploring practical applications of Large Language Models (LLMs) and AI automation</li>
 <li>🚀 Expanding my portfolio with real-world software projects</li>
 </ul>
 
@@ -39,8 +35,8 @@ I have experience working with <b>Java, Python, C, C++, and iOS Development (Swi
 
 <h3>🌱 I'm currently learning</h3>
 <ul>
-<li>🎓 As part of my <b>Bachelor's in Computing Science</b>, I'm strengthening my foundation in <b>Data Structures &amp; Algorithms, Computer Networks, Cybersecurity, Software Engineering</b>, and other core computer science concepts.</li>
-<li>📚 Outside of my degree, I enjoy exploring <b>Artificial Intelligence, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Automation</b>, and building practical applications that solve real-world problems.</li>
+<li>🎓 As part of my Bachelor's in Computing Science, I'm strengthening my foundation in Data Structures &amp; Algorithms, Computer Networks, Cybersecurity, Software Engineering, and other core computer science concepts.</li>
+<li>📚 Outside of my degree, I enjoy exploring Artificial Intelligence, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Automation, and building practical applications that solve real-world problems.</li>
 </ul>
 
 </td>
@@ -60,6 +56,19 @@ I have experience working with <b>Java, Python, C, C++, and iOS Development (Swi
 </td>
 <td valign="top" width="50%">
 
+<h3>🤝 I'm looking for help with</h3>
+<ul>
+<li>Open-source contributions</li>
+<li>System Design</li>
+<li>Building scalable AI applications</li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+<br>
+
 <h3>💬 Ask me about</h3>
 <ul>
 <li>Talent Acquisition &amp; Recruitment</li>
@@ -70,16 +79,12 @@ I have experience working with <b>Java, Python, C, C++, and iOS Development (Swi
 <li>Productivity Systems</li>
 </ul>
 
-</td>
-</tr>
-</table>
-
 <br>
 
 <details open>
 <summary><h3>⚡ Fun fact</h3></summary>
 <p>
-My curiosity for technology started long before I wrote my first line of code, I spent countless hours modding GTA Vice City, rebuilding computers, and figuring out how software worked simply because I wanted to understand how things worked behind the scenes.
+My curiosity for technology started long before I wrote my first line of code—I spent countless hours modding GTA Vice City, rebuilding computers, and figuring out how software worked simply because I wanted to understand how things worked behind the scenes.
 </p>
 </details>
 
@@ -106,6 +111,10 @@ My curiosity for technology started long before I wrote my first line of code, I
 <img src="https://img.shields.io/badge/iOS_Development-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 </p>
 
+<h3>Top Languages</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhdeep-Brar&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br>
 <br>
 
 <h2>💡 My Philosophy</h2>
