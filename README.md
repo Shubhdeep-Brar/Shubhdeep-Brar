@@ -105,9 +105,6 @@ My curiosity for technology started long before I wrote my first line of code—
 <img src="https://img.shields.io/badge/iOS_Development-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 </p>
 
-<h3>Top Languages</h3>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,swift&theme=dark"/>
-
 <br>
 <br>
 
