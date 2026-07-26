@@ -78,7 +78,7 @@ I'm currently a Senior Talent Advisor with 6+ years of experience partnering wit
 <details open>
 <summary><h3>Fun fact</h3></summary>
 <p>
-My curiosity for technology started long before I wrote my first line of code—I spent countless hours modding GTA Vice City, rebuilding computers, and figuring out how software worked simply because I wanted to understand how things worked behind the scenes.
+My curiosity for technology started long before I wrote my first line of code, I spent countless hours modding GTA Vice City, rebuilding computers, and figuring out how software worked simply because I wanted to understand how things worked behind the scenes.
 </p>
 </details>
 
