@@ -16,12 +16,12 @@ I'm currently a Senior Talent Advisor with 6+ years of experience partnering wit
 
 <table width="100%">
 <tr>
-<td valign="top" width="50%"><h3>Currently working on</h3><ul><li>AI-powered applications using Retrieval-Augmented Generation</li><li>Tools that streamline everyday workflows</li><li>A portfolio of real-world software projects</li><li>Practical, production-ready applications of LLMs</li></ul></td>
+<td valign="top" width="50%"><h3>Currently working on: </h3><ul><li>AI-powered applications using Retrieval-Augmented Generation</li><li>Tools that streamline everyday workflows</li><li>A portfolio of real-world software projects</li><li>Practical, production-ready applications of LLMs</li></ul></td>
 <td valign="top" width="50%"><h3>Currently learning</h3><ul><li>Data structures & algorithms</li><li>Computer networks & cybersecurity</li><li>Software engineering fundamentals</li><li>AI, LLMs, RAG & automation through hands-on projects</li></ul></td>
 </tr>
 <tr>
-<td valign="top" width="50%"><h3>Open to collaborating on</h3><ul><li>AI and machine learning projects</li><li>Productivity tools and workflow automation</li><li>Open-source software</li><li>Full-stack applications</li><li>Hackathons and side projects</li></ul></td>
-<td valign="top" width="50%"><h3>Looking for guidance on</h3><ul><li>Open-source contribution workflows</li><li>System design fundamentals</li><li>Best practices for scalable AI applications</li></ul></td>
+<td valign="top" width="50%"><h3>Open to collaborating: </h3><ul><li>AI and machine learning projects</li><li>Productivity tools and workflow automation</li><li>Open-source software</li><li>Full-stack applications</li><li>Hackathons and side projects</li></ul></td>
+<td valign="top" width="50%"><h3>Looking for guidance: </h3><ul><li>Open-source contribution workflows</li><li>System design fundamentals</li><li>Best practices for scalable AI applications</li></ul></td>
 </tr>
 </table>
 
