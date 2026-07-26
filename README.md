@@ -16,12 +16,12 @@ I'm currently a Senior Talent Advisor with 6+ years of experience partnering wit
 
 <table width="100%">
 <tr>
-<td valign="top" width="50%"><h3>Currently working on</h3><ul><li><sub>AI-powered applications using Retrieval-Augmented Generation</sub></li><li><sub>Tools that streamline everyday workflows</sub></li><li><sub>A portfolio of real-world software projects</sub></li><li><sub>Practical, production-ready applications of LLMs</sub></li></ul></td>
-<td valign="top" width="50%"><h3>Currently learning</h3><ul><li><sub>Data structures & algorithms</sub></li><li><sub>Computer networks & cybersecurity</sub></li><li><sub>Software engineering fundamentals</sub></li><li><sub>AI, LLMs, RAG & automation through hands-on projects</sub></li></ul></td>
+<td valign="top" width="50%"><h3>Currently working on</h3><ul><li>AI-powered applications using Retrieval-Augmented Generation</li><li>Tools that streamline everyday workflows</li><li>A portfolio of real-world software projects</li><li>Practical, production-ready applications of LLMs</li></ul></td>
+<td valign="top" width="50%"><h3>Currently learning</h3><ul><li>Data structures & algorithms</li><li>Computer networks & cybersecurity</li><li>Software engineering fundamentals</li><li>AI, LLMs, RAG & automation through hands-on projects</li></ul></td>
 </tr>
 <tr>
-<td valign="top" width="50%"><h3>Open to collaborating on</h3><ul><li><sub>AI and machine learning projects</sub></li><li><sub>Productivity tools and workflow automation</sub></li><li><sub>Open-source software</sub></li><li><sub>Full-stack applications</sub></li><li><sub>Hackathons and side projects</sub></li></ul></td>
-<td valign="top" width="50%"><h3>Looking for guidance on</h3><ul><li><sub>Open-source contribution workflows</sub></li><li><sub>System design fundamentals</sub></li><li><sub>Best practices for scalable AI applications</sub></li></ul></td>
+<td valign="top" width="50%"><h3>Open to collaborating on</h3><ul><li>AI and machine learning projects</li><li>Productivity tools and workflow automation</li><li>Open-source software</li><li>Full-stack applications</li><li>Hackathons and side projects</li></ul></td>
+<td valign="top" width="50%"><h3>Looking for guidance on</h3><ul><li>Open-source contribution workflows</li><li>System design fundamentals</li><li>Best practices for scalable AI applications</li></ul></td>
 </tr>
 </table>
 
@@ -68,10 +68,8 @@ My curiosity for technology started long before I wrote my first line of code—
 <img src="https://img.shields.io/badge/Software_Engineering-1E90FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/iOS_Development-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 </p>
-
 <h3>Top Languages</h3>
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,swift&theme=dark"/>
-
 <br>
 <br>
 
