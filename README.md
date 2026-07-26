@@ -12,52 +12,20 @@
 I'm currently a Senior Talent Advisor with 6+ years of experience partnering with small, medium, and global organizations to attract exceptional talent. Alongside my professional career, I'm pursuing a Bachelor's in Computing Science to complement my business and people experience with a strong foundation in software engineering and emerging technologies.
 </p>
 
+<p>
+Technology has fascinated me for as long as I can remember.
+</p>
+
 <br>
 
 <table width="100%">
 <tr>
-<td valign="top" width="50%">
-
-<h3>Currently working on</h3>
-<sub>
-
-Building AI-powered applications using Retrieval-Augmented Generation, developing tools that streamline everyday workflows, and expanding a portfolio of real-world software projects — with a growing focus on practical, production-ready applications of large language models.
-
-</sub>
-
-</td>
-<td valign="top" width="50%">
-
-<h3>Currently learning</h3>
-<sub>
-
-As part of my Computing Science degree, I'm building a solid foundation in data structures & algorithms, computer networks, cybersecurity, and software engineering. Outside the classroom, I'm exploring AI, LLMs, RAG, and automation through hands-on projects.
-
-</sub>
-
-</td>
+<td valign="top" width="50%"><h3>Currently working on</h3><sub><ul><li>AI-powered applications using Retrieval-Augmented Generation</li><li>Tools that streamline everyday workflows</li><li>A portfolio of real-world software projects</li><li>Practical, production-ready applications of LLMs</li></ul></sub></td>
+<td valign="top" width="50%"><h3>Currently learning</h3><sub><ul><li>Data structures & algorithms</li><li>Computer networks & cybersecurity</li><li>Software engineering fundamentals</li><li>AI, LLMs, RAG & automation through hands-on projects</li></ul></sub></td>
 </tr>
 <tr>
-<td valign="top" width="50%">
-
-<h3>Open to collaborating on</h3>
-<sub>
-
-AI and machine learning projects, productivity tools and workflow automation, open-source software, full-stack applications, and the occasional hackathon or side project that pushes me to build something new.
-
-</sub>
-
-</td>
-<td valign="top" width="50%">
-
-<h3>Looking for guidance on</h3>
-<sub>
-
-Open-source contribution workflows, system design fundamentals, and best practices for building scalable AI applications.
-
-</sub>
-
-</td>
+<td valign="top" width="50%"><h3>Open to collaborating on</h3><sub><ul><li>AI and machine learning projects</li><li>Productivity tools and workflow automation</li><li>Open-source software</li><li>Full-stack applications</li><li>Hackathons and side projects</li></ul></sub></td>
+<td valign="top" width="50%"><h3>Looking for guidance on</h3><sub><ul><li>Open-source contribution workflows</li><li>System design fundamentals</li><li>Best practices for scalable AI applications</li></ul></sub></td>
 </tr>
 </table>
 
@@ -104,6 +72,9 @@ My curiosity for technology started long before I wrote my first line of code—
 <img src="https://img.shields.io/badge/Software_Engineering-1E90FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/iOS_Development-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 </p>
+
+<h3>Top Languages</h3>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,swift&theme=dark"/>
 
 <br>
 <br>
