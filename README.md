@@ -16,12 +16,48 @@ I'm currently a Senior Talent Advisor with 6+ years of experience partnering wit
 
 <table width="100%">
 <tr>
-<td valign="top" width="50%"><h3>Currently working on: </h3><ul><li>AI-powered applications using Retrieval-Augmented Generation</li><li>Tools that streamline everyday workflows</li><li>A portfolio of real-world software projects</li><li>Practical, production-ready applications of LLMs</li></ul></td>
-<td valign="top" width="50%"><h3>Currently learning</h3><ul><li>Data structures & algorithms</li><li>Computer networks & cybersecurity</li><li>Software engineering fundamentals</li><li>AI, LLMs, RAG & automation through hands-on projects</li></ul></td>
+<td valign="top" width="50%">
+<img src="https://dummyimage.com/800x6/2E3192/2E3192.png" width="100%" height="6"/>
+<h3>Currently working on</h3>
+<ul>
+<li>AI-powered applications using Retrieval-Augmented Generation</li>
+<li>Tools that streamline everyday workflows</li>
+<li>A portfolio of real-world software projects</li>
+<li>Practical, production-ready applications of LLMs</li>
+</ul>
+</td>
+<td valign="top" width="50%">
+<img src="https://dummyimage.com/800x6/6A5ACD/6A5ACD.png" width="100%" height="6"/>
+<h3>Currently learning</h3>
+<ul>
+<li>Data structures & algorithms</li>
+<li>Computer networks & cybersecurity</li>
+<li>Software engineering fundamentals</li>
+<li>AI, LLMs, RAG & automation through hands-on projects</li>
+</ul>
+</td>
 </tr>
 <tr>
-<td valign="top" width="50%"><h3>Open to collaborating: </h3><ul><li>AI and machine learning projects</li><li>Productivity tools and workflow automation</li><li>Open-source software</li><li>Full-stack applications</li><li>Hackathons and side projects</li></ul></td>
-<td valign="top" width="50%"><h3>Looking for guidance: </h3><ul><li>Open-source contribution workflows</li><li>System design fundamentals</li><li>Best practices for scalable AI applications</li></ul></td>
+<td valign="top" width="50%">
+<img src="https://dummyimage.com/800x6/2E8B57/2E8B57.png" width="100%" height="6"/>
+<h3>Open to collaborating on</h3>
+<ul>
+<li>AI and machine learning projects</li>
+<li>Productivity tools and workflow automation</li>
+<li>Open-source software</li>
+<li>Full-stack applications</li>
+<li>Hackathons and side projects</li>
+</ul>
+</td>
+<td valign="top" width="50%">
+<img src="https://dummyimage.com/800x6/1E90FF/1E90FF.png" width="100%" height="6"/>
+<h3>Looking for guidance on</h3>
+<ul>
+<li>Open-source contribution workflows</li>
+<li>System design fundamentals</li>
+<li>Best practices for scalable AI applications</li>
+</ul>
+</td>
 </tr>
 </table>
 
@@ -68,6 +104,7 @@ My curiosity for technology started long before I wrote my first line of code—
 <img src="https://img.shields.io/badge/Software_Engineering-1E90FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/iOS_Development-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 </p>
+
 <h3>Top Languages</h3>
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,swift&theme=dark"/>
 <br>
@@ -77,7 +114,6 @@ My curiosity for technology started long before I wrote my first line of code—
 <blockquote>
 <i>I believe great software should solve real problems, not just demonstrate technical skills. My goal is to build products that make work simpler, faster, and more enjoyable for people.</i>
 </blockquote>
-
 <br>
 
 <h2>Let's Connect</h2>
